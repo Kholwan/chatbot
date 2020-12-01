@@ -1,0 +1,3 @@
+# chatbot
+creating a basic chat bot with python.
+hey guys, lets have fun with python by creating a a basic bot. paly around with it and enjoyyyyyyyyyyyyyyy...
