@@ -1,0 +1,26 @@
+print('_____________________Xorix_code chatbot_____________________ ')
+print("""
+""")
+name = input("Whats your name: ")
+print("welcome " + name + "!" + " to xorix_code chatbot")
+print("so " + name + ", xorix_code will give you some advise")
+
+adivise = input(name + " Whats your question: ")
+answer = ("""
+
+Tomorrow is a new day, noone is promised to it, but note this, if you wake up tomorrow know, you have a chance to be anything you want, 
+it only takes good-vibes and hardwork and God, make sure its realistic though.
+""")
+print(answer)
+
+print("Let me know if you still doubt yourself tomorrow " + " but "  + name + " you really must be lonely getting advise from a robot       ")
+print("""
+
+""")
+feeling = input(name + ", was it of help?: ")
+print("""
+""")
+print("Inshallah " + name + " i give up")
+
+
+
